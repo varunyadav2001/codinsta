@@ -1,6 +1,3 @@
-# codinsta
-live Demo:https://codinsta02.netlify.app
-
 # CodInsta 🚀
 
 An interactive web platform designed for developers and students to master **Data Structures and Algorithms (DSA)** and prepare for competitive programming with structured guides and code solutions.
